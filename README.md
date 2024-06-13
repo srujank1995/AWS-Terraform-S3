@@ -12,6 +12,7 @@ Before you begin, ensure you have the following installed:
 - [HashiCorp Terraform extension for VS Code](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
 
 ## Project Structure
+.
 ├── main.tf
 ├── variables.tf
 ├── index.html
