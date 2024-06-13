@@ -15,13 +15,12 @@ Before you begin, ensure you have the following installed:
 .
 ├── main.tf
 ├── variables.tf
-├── index.html
-├── error.html
+├── provider.tf
 ├── terraform.tfvars
-└── README.md
+└── README.md 
 - `main.tf`: This file contains the primary configuration for the S3 bucket.
 - `variables.tf`: This file defines the input variables for the Terraform configuration.
-- `outputs.tf`: This file defines the outputs of the Terraform configuration.
+- `provider.tf`: This file configures the AWS provider.
 - `terraform.tfvars`: This file contains the values for the input variables.
 - `README.md`: This file.
 
