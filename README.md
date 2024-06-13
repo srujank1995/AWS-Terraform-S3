@@ -14,9 +14,13 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 .
 ├── main.tf
+
 ├── variables.tf
+
 ├── provider.tf
+
 ├── terraform.tfvars
+
 └── README.md 
 - `main.tf`: This file contains the primary configuration for the S3 bucket.
 - `variables.tf`: This file defines the input variables for the Terraform configuration.
